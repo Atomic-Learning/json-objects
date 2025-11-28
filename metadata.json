@@ -7,7 +7,7 @@
     "tags": [
         "json"
     ],
-    "duration": 3,
+    "duration": 2,
     "prerequisites": [
         "json-data-types"
     ],
