@@ -1,21 +1,17 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "JSON: Objects",
+    "slug": "json-objects",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "json"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "json-data-types"
     ],
     "related": [
-        "",
-        ""
+        "json-arrays"
     ]
 }
